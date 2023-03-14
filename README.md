@@ -3,3 +3,7 @@ A small utility program that tracks how much data you have uploaded and download
 Based off of the ideas given under: https://github.com/karan/Projects#networking
 
 # Resources: 
+- tkinter — Python interface to Tcl/Tk: https://docs.python.org/3/library/tkinter.html
+- Tkinter 8.5 reference: a GUI for Python: https://tkdocs.com/shipman/
+- psutil documentation: https://psutil.readthedocs.io/en/latest/
+- Matplotlib 3.7.1 documentation: https://matplotlib.org/stable/index.html
